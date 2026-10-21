@@ -1,10 +1,10 @@
 # My first project
 
-Hi. I am Angela and i am learning Github
+Hi. I am Angela and I am learning GitHub
 
-# What i want to learn
+## What I want to learn
 
 - Create repositories
 - Make commits
-- Working with branches 
+- Work with branches 
   
