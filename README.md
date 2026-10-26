@@ -1,10 +1,13 @@
 # My first project
 
-Hi. I am Angela and I am learning GitHub
+Hi, I am Angela. I study systems engineering, and
+I´m learning GitHub to showcase my projects. 
 
-## What I want to learn
+## What I'm learning
 
-- Create repositories
-- Make commits
-- Work with branches 
+- Git and GitHub
+- Terminal
+- Cybersecurity
+ 
+ 
   
